@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(56, 48, 163);
+
+}
+
+#survey-form {
+    width: 480px;
+    margin: auto;
+    position: middle;
+    background-color: #1b1b32;
+    padding: 80px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: left;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+#description {
+font-style: italic;
+font-size: 20px;
+text-align: center;
+color: white;
+}
+
+#
+
